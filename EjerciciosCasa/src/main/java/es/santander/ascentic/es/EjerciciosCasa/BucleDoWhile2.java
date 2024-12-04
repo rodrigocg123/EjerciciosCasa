@@ -1,6 +1,5 @@
 package es.santander.ascentic.es.EjerciciosCasa;
 
-import java.util.Scanner;
 import javax.swing.*;
 public class BucleDoWhile2 {
     public static void main(String[] args) {
